@@ -489,10 +489,6 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>Admin</members>
-        <name>Profile</name>
-    </types>
-    <types>
         <members>Milestone_Project_Management</members>
         <members>Milestone_Project_Management/My_Blocked_Tasks_DB</members>
         <members>Milestone_Project_Management/My_Late_Tasks_DB</members>
