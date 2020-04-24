@@ -1238,14 +1238,6 @@
         <name>AllowLightningLogin</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>AllowObjectDetection</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AllowObjectDetectionTraining</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>AllowUniversalSearch</name>
     </userPermissions>
